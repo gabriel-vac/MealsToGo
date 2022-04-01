@@ -1,0 +1,11 @@
+[obs]
+flex 1 para ocupar o espaço disponivel da tela.
+SafeAreaView só suporta IOS
+lembrar de instalar plugin do react hooks
+https://www.npmjs.com/package/eslint-plugin-react-hooks
+styled components precisa ser importado de  'styled-components/native'
+[commands]
+adb devices
+yarn create @eslint/config
+yarn add react-native-paper
+yarn add -D eslint-plugin-prettier@latest
